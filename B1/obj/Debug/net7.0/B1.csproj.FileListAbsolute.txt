@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\bin\Debug\net7.0\B1.exe
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\bin\Debug\net7.0\B1.deps.json
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\bin\Debug\net7.0\B1.runtimeconfig.json
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\bin\Debug\net7.0\B1.dll
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\bin\Debug\net7.0\B1.pdb
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.dll
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\refint\B1.dll
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.pdb
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\B1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Test\TTD_Test\B1\obj\Debug\net7.0\ref\B1.dll
